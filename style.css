@@ -50,7 +50,7 @@ html {
 }
 
 .description-box {
-  position: absolute;
+  position: relative;
   top: 28%;
   right: -50%;
   transform: translateY(-50%);
