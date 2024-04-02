@@ -78,6 +78,7 @@ html {
   height: 350px;
 
 }
+
 @media (max-width: 768px) {
     .course-feature {
       width: 150px;
