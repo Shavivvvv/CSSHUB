@@ -49,6 +49,28 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.description-box {
+  position: relative;
+  top: 28%;
+  right: -50%;
+  transform: translateY(-50%);
+  width: 350px;
+  height: fit-content;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.course-feature {
+  position:absolute;
+  top: 60%;
+  right: -50%;
+  transform: translateY(-50%);
+  width: 350px;
+  height: 350px;
+
+}
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
