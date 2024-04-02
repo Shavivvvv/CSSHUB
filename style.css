@@ -64,7 +64,7 @@ html {
 
 @media (max-width: 768px) {
     .description-box {
-      width: 120px;
+      width: 50px;
       padding: 15px;
     }
   }
@@ -81,7 +81,7 @@ html {
 
 @media (max-width: 768px) {
     .course-feature {
-      width: 120px;
+      width: 50px;
       padding: 15px;
     }
   }
