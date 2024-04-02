@@ -50,7 +50,7 @@ html {
 }
 
 .description-box {
-  position: relative;
+  position: absolute;
   top: 28%;
   right: -50%;
   transform: translateY(-50%);
@@ -63,7 +63,7 @@ html {
 }
 
 .course-feature {
-  position:absolute;
+  position: absolute;
   top: 60%;
   right: -50%;
   transform: translateY(-50%);
