@@ -71,7 +71,7 @@ html {
 
 .course-feature {
   position: absolute;
-  top: 50%;
+  top: 60%;
   right: -50%;
   transform: translateY(-50%);
   width: 350px;
